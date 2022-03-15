@@ -1,2 +1,1 @@
-## Welcome to lixiaolang Pages
-test
+RESET.
